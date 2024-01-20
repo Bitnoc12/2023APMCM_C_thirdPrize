@@ -1,0 +1,22 @@
+北京人口数量（2020）,,,,,
+2189.3万,,,,,
+,平均电耗,平均油耗,,,
+车大类,新能源汽车(kWh/100km),燃油汽车（L/100km）,车辆分布,,车辆分布
+私家车,17.4,5.61,526915,,526915
+出租车,17.4,5.61,17972,,17972
+公交车,73.6,30,27800,,27800
+旅游车,73.6,30,6699,,6699
+环卫车,24,18,2670,,2670
+物流车,33.8,18,143445,,143445
+,国务院办公厅,中华人民共和国工业和信息化部,,,
+,NDANEV,,,,
+,,,,,
+SCE electric,1.4714,,,,
+SCE fuel,0.1229,,,,
+fuel density,0.725,,,,
+,,,,Analyze the impact of the electrification of new energy electric vehicles (including,
+,,,,electric buses) in cities on the ecological environment. Assuming that there is an urban,
+,,,,"population of 1 million, provide the calculation results of the model.",
+,,,,根据北京的城市进行人口等比例缩小，透过计算新能源交通以及燃油汽车的平均能耗，为了可比性，使用了,
+,,,,GBT的公式来生成公式REE来计算，R<1就代表新能源更加省电，R>1则代表燃油能源消耗更多,
+,,,,计算结果,
